@@ -1,0 +1,75 @@
+body{
+    background-color: rgba(250, 221, 182, 0.514);
+}
+
+.page-header{
+    font-size: 20px;
+    background-color: #000066d1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: 30% 30%;
+    
+    line-height: 20px;
+    justify-content: center;
+   
+    
+}
+
+.pr h1{
+    font-size: 50px;
+}
+
+.page-main{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.pers_i {
+    background-color: #000066d1;
+}
+
+.main_i{
+    background-color: #000066d1;
+}
+
+.experience h2{
+    background-color: #000066d1;
+}
+
+.education h2{
+    background-color: #000066d1;
+}
+
+.additional_info h2{
+    background-color: #000066d1;
+}
+
+.sect-1{
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 30px;
+    margin-top: 20px;
+    line-height: 30px;  
+}
+.sect-2{
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 30px;
+    margin-top: 20px;  
+}
+
+
+.additional_info{
+    font-size: 18px;
+}
+
+p{
+
+}
